@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weiz.Log.LogTest", "Weiz.Log.LogTest\Weiz.Log.LogTest.csproj", "{84B4F910-B089-4B9F-8D38-2D0DA48EF495}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weiz.Log", "Weiz.Log\Weiz.Log.csproj", "{21044C45-C98C-4C35-B670-52BFD7D7FD3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84B4F910-B089-4B9F-8D38-2D0DA48EF495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B4F910-B089-4B9F-8D38-2D0DA48EF495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B4F910-B089-4B9F-8D38-2D0DA48EF495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B4F910-B089-4B9F-8D38-2D0DA48EF495}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21044C45-C98C-4C35-B670-52BFD7D7FD3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21044C45-C98C-4C35-B670-52BFD7D7FD3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21044C45-C98C-4C35-B670-52BFD7D7FD3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21044C45-C98C-4C35-B670-52BFD7D7FD3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

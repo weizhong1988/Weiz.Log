@@ -1,0 +1,8 @@
+D:\vs2015\Weiz.Log.LogTest\Weiz.Log\Weiz.Log.LogTest\bin\Debug\Weiz.Log.LogTest.exe.config
+D:\vs2015\Weiz.Log.LogTest\Weiz.Log\Weiz.Log.LogTest\bin\Debug\Weiz.Log.LogTest.exe
+D:\vs2015\Weiz.Log.LogTest\Weiz.Log\Weiz.Log.LogTest\bin\Debug\Weiz.Log.LogTest.pdb
+D:\vs2015\Weiz.Log.LogTest\Weiz.Log\Weiz.Log.LogTest\obj\Debug\Weiz.Log.LogTest.exe
+D:\vs2015\Weiz.Log.LogTest\Weiz.Log\Weiz.Log.LogTest\obj\Debug\Weiz.Log.LogTest.pdb
+D:\vs2015\Weiz.Log.LogTest\Weiz.Log\Weiz.Log.LogTest\bin\Debug\Weiz.Log.dll
+D:\vs2015\Weiz.Log.LogTest\Weiz.Log\Weiz.Log.LogTest\bin\Debug\Weiz.Log.pdb
+D:\vs2015\Weiz.Log.LogTest\Weiz.Log\Weiz.Log.LogTest\obj\Debug\Weiz.Log.LogTest.csprojResolveAssemblyReference.cache
